@@ -1,6 +1,4 @@
-# Capistrano::Precompile::On::Local
-
-TODO: Write a gem description
+# Capistrano::PrecompileOnLocal
 
 ## Installation
 
@@ -18,11 +16,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just add `require 'capistrano/precompile_on_local'` in your `Capfile` after `require 'capistrano/rails/assets'` line.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/capistrano-precompile-on-local/fork )
+1. Fork it ( https://github.com/ayamomiji/capistrano-precompile-on-local/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
